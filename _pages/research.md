@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+
+---
+
+{% include base_path %}
+
 I am a quantitative disease ecologist interested in developing and improving mathematical models of disease to assist in prediction and prevention of emerging and zoonotic infectious diseases in the context of rapidly changing, human-impacted environments. The overall objective of my research program is to explore the effects of heterogeneity in behavioral and immune competence on disease modeling predictions within and across populations. I use mathematical modelling approaches, integrated with empirical data, to explore three different types of heterogeneity that can alter individual transmission rates: (i) within-host heterogeneity; (ii) contact heterogeneity and group structure within populations; and (iii) spatial heterogeneity across landscapes. I model these types of heterogeneity in domestic and wild animal populations for specific host-pathogen systems (e.g., influenza A virus in swine herds, feline leukemia virus in Puma concolor) and more generally for theoretical systems. These models differ in the behavioral processes that they encompass and the spatial scale at which they operate. My work also has broader implications for understanding human disease risk within the One Health framework, which includes human, animal, and environmental health.
 
 ## Within-host heterogeneity
