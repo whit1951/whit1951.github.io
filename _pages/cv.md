@@ -20,48 +20,43 @@ Work experience
 
 *Statistician Modeler, COVID Modeling Team	(September 2021 – present)*
 
-* Developed a framework to retrospectively analyze COVID forecast modeling accuracy across CA counties and regions; shared findings at Science Branch and CalCAT open house meetings
-* Analyzed historical flu reporting and hospitalization data and developed flu forecasting models for 2021-2022 flu season at a state and regional level
-* Collated, synthesized, and visualized flu vaccination coverage data from multiple sources
-* Contributed to preliminary scenario modeling for Omicron variant and facilitated development of policy relevant materials including slide decks, recurring data reports, and informational requests
-* Mentored junior staff member in development/deployment of a COVID cluster detection analysis
-
 **USAID, Office of HIV/AIDS, Systems and Program Sustainability Division, Washington, DC**
 
-*AAAS Science & Technology Policy Fellow	September 2020 – August 2021*
-
-* Coordinated working group and developed concept notes and proposals to support key population civil society organization sustainability planning for the Asia region
-* Coordinated with implementing partner to finalize and deploy a sustained epidemic control tool for sustainability program planning
-* Planned and facilitated retreat for the Community Based Partner branch to synthesize learning from the local partner transition; led manuscript development to document these findings
-* Served as an interagency subject matter expert on sustained epidemic control for Kenya, Uganda, and Eswatini operating units
+*AAAS Science & Technology Policy Fellow (September 2020 – August 2021)*
 
 **National Socio-Environmental Synthesis Center (SESYNC), Annapolis, MD**
 
 *Post-Doctoral Research Fellow (August 2018 – August 2020)*
 
-* Developed a successful, self-led, competitive post-doc fellowship proposal with upwards of $130,000 in stipend and fringe
-* Led and collaborated on research projects on infectious disease modelling (e.g., disease and movement, COVID, historical pandemics, cross-species transmission and spillover, the effects of disease on nutrient cycling) resulting in 10+ peer reviewed manuscripts
-* Using reproducible research methods, analyzed large data sets (e.g., geospatial, PIT tag) and developed code in R (e.g., contact network modeling, individual-based models, machine learning, movement analyses) to further research questions
-* Mentored a Ph.D. student and high school student to develop project ideas, provide feedback on manuscripts, and develop a Regeneron International Science Fair submission over a period of two years
-* Conducted science outreach activities including: science writing pieces for the SESYNC monthly newsletter (5,000+ subscribers), TEDMED Research Scholar (2019-2020), Skype-a-Scientist (2018, 2019), Letters to a Pre-Scientist (2018-2020), and the AIBS Congressional Visits Day (2019)
-
 **University of Minnesota	St. Paul, MN**
 
-*Graduate Research Fellow and Teaching Assistant	(September 2013 – July 2018)*
-
-*	Secured over $200,000 in funding from both internal and external grant sources for stipend, conference travel, and research 
-* Managed multiple ongoing projects and international collaborations positions leading to successful funding and five first-author publications including papers published in Biological Reviews and PNAS
-*	Led lab sections (20-30 students) in biology and theoretical ecology (Fall 2013 and Spring 2014); developed guest lectures on the “Ecology of Infectious Diseases” and “Contact network models in wildlife” 
-*	Science outreach efforts including: blog posts for the Journal of Animal Ecology and the Loudoun Wildlife Conservancy’s Habitat Herald newsletter, Market Science (marketsci.org, 2018), the Animal Behavior Society Outreach Fair (2016, 2017), and AIBS Congressional Visits Day (2016, 2017)
-
+*Graduate Research Fellow and Teaching Assistant (September 2013 – July 2018)*
   
 Publications
 ======
+
+**2022**
+
+Manlove, K., Wilber, M., White, L.A.,  Bastille-Rousseau, G., Yang, A., Gilbertson, M. Craft, M.,  Cross, P., Wittemyer, G. & Pepin, K. (Accepted). Defining an epidemiological landscape that connects movement ecology to pathogen transmission and pace-of-life. Ecology Letters. https://doi.org/10.22541/au.163458112.22651398/v1
+
+Hundt, P., White, L.A., Craft, M.E., & Prezmyslaw, G. (Accepted). Social associations in common carp (Cyprinus carpio): insights from induced feeding aggregations for targeted management strategies. Ecology & Evolution. http://dx.doi.org/10.1002/ece3.8666
+
+*Mistrick J., *Gilbertson M.L.J., White L.A., & Craft M.E.. Constructing animal networks for parasite transmission inference. In: Ezenwa VO, Altizer S, Hall RJ, editors. Animal Behavior and Parasitism. Oxford University Press, 2022. DOI:
+10.1093/oso/9780192895561.003.0004
+
+Borer, E.T., Paseka, R.E., Peace, A., Asik, L., Everett, R., Frenken, T., González, A.L.,  Strauss A.T., Van de Waal, D.B., White, L.A., Seabloom, E.W. (2022). Disease-mediated nutrient dynamics: reciprocal relationships link host-pathogen interactions with ecosystem elements and energy. Ecological Monographs, 92(2): e1510. https://doi.org/10.1002/ecm.1510
+
 **2021**
 
-Shaw, A.K., White, L.A., Michalska-Smith, M., Borer, E.T., Craft, M.E., Seabloom, Snell-Rood, E., and Travisano, M. (Accepted). Lessons from movement ecology for the return to work: modeling contacts and the spread of COVID-19. PLoS ONE. https://doi.org/10.1101/2020.05.27.20114728
+Frenken, T., Paseka, R., González, A.L., Asik, L., Seabloom E.W., White, L.A., Borer, E.T.,  Strauss, A.T., Peace, A. Van de Waal, DB. (2021). Changing elemental cycles, stoichiometric mismatches, and consequences for pathogens of primary producers. Oikos, 130: 1046–1055. https://doi.org/10.1111/oik.08253
+
+Malmberg, J., White, L.A., Vandewoude, S. (2021). Predator driven spillover: Pathogen bioaccumulation in top predators. TREE 36(5), P411-420. https://doi.org/10.1016/j.tree.2021.01.008
+
+Shaw, A.K., White, L.A., Michalska-Smith, M., Borer, E.T., Craft, M.E., Seabloom, Snell-Rood, E., and Travisano, M. (2021). Lessons from movement ecology for the return to work: modeling contacts and the spread of COVID-19. PLoS ONE 16(1), e0242955. https://doi.org/10.1371/journal.pone.0242955
 
 Borer, E.T., Asik, L. Everett, R.A., Frenken, T., Gonzalez, A. Paseka, R. Peace, A. Seabloom, E.W. Strauss, A.T., Van de Waal, D.B., and White, L.A. (2021). Elements of disease in a changing world: modelling feedbacks between infectious disease and ecosystems. Ecology Letters, 24: 6-19. https://doi.org/10.1111/ele.13617
+
+Lee, N., Christensen-Dalsgaard, J., White, L.A., Schrode, K.M., and Bee, M. (2021). Noise-control lungs help frogs solve a multi-species, cocktail party problem. Current Biology, 31: 1-11. https://doi.org/10.1016/j.cub.2021.01.048
 
 **2020**
 
