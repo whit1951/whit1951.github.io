@@ -34,9 +34,20 @@ Work experience
   
 Publications
 ======
+**IN PROGRESS**
+
+**White, L.A.**, León, T.M. (In revision). Forecastability of infectious disease time series: are some seasons and pathogens intrinsically more difficult to forecast? https://www.medrxiv.org/content/10.1101/2025.04.29.25326677v1
+
+Lu, P., Jain, S. León. T.M., & **White, L.A.** (In revision). CalCORVID: A dynamic RShiny dashboard approach to visualize spatiotemporal clusters for applied epidemiology. https://www.medrxiv.org/content/10.1101/2025.08.29.25334603v1
+
+**White, L.A.**, Sun, M., Burnor, E., Murray, E.L., Hoover, C., Penton, C. Li, N.J., Chi, F., León, T.L. A new surveillance landscape for seasonal influenza? Comparing lab-confirmed influenza hospitalizations with other syndromic and surveillance data sources for the state of California. https://www.medrxiv.org/content/10.1101/2025.10.28.25338991v1
+
+
 **2025**
 
-León, T.M., **White, L.A.**, Spindler, H., Schwab, J., Petersen, M., Vargo, J., Wheeler, W., Shete, P., Jain, S., Watt, J., Pan, E., Kilpatrick, A.M. (Accepted). Fostering public health and academic partnerships during and beyond a public health emergency: lessons learned from COVID-19. *American Journal of Epidemiology.*
+Thakur, M., **White, L.A.**, Pugliese, J. Crow, D., Lu, P., Linton, P, McCorvie, R., Ravuri, S., Sanchez-Castellanos, H.M., Siegel, B., Vargo, León, T.M. (2025). Keeping a modeling-driven public health dashboard relevant- lessons learned from the California Communicable Diseases Assessment Tool. *Frontiers in Public Health*; 13. https://doi.org/10.3389/fpubh.2025.1658645
+
+León, T.M., **White, L.A.**, Spindler, H., Schwab, J., Petersen, M., Vargo, J., Wheeler, W., Shete, P., Jain, S., Watt, J., Pan, E., Kilpatrick, A.M. (2025). Fostering public health and academic partnerships during and beyond a public health emergency: lessons learned from COVID-19. *American Journal of Epidemiology.* https://doi.org/10.1093/aje/kwaf007
 
 Ravuri, S. Burnor, E., Routledge, I., Linton, N., Thakur, M., Boehm, A., Wolfe, M., Bischel, H.N., Naughton, C.C., Yu, A.T. **White, L.A.**, & León, T.M. (2025). Estimating effective reproduction numbers using wastewater data from multiple sewersheds for SARS-CoV-2 in California counties. *Epidemics*; 50, 100803. https://doi.org/10.1016/j.epidem.2024.100803
 
